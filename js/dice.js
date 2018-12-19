@@ -1,5 +1,7 @@
-Array.prototype.random = function () {
-  return this[Math.floor((Math.random()*this.length))];
+//business logic
+var player1="";
+var player2="";
+
+var throwdice = function () {
+  return Math.floor(Math.random()*7)+1;
 }
-  var dice=(1,2,3,4,5,6)
-  
