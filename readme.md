@@ -19,6 +19,8 @@ bootstrap
 
 
 LINK TO SITE
+https://omwanda.github.io/pig-dice/
+
 
 
 SETUP INSTRUCTIONS
